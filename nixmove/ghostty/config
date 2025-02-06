@@ -1,0 +1,3 @@
+window-decoration = false
+theme = rose-pine-moon
+shell-integration = zsh
